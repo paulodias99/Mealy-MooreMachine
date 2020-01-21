@@ -1,0 +1,7 @@
+$Sequência:
+$1,1
+$Tipo de saída:
+$Tipo: Moore
+$Entrada:
+$0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,0
+$2
